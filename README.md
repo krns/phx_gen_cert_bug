@@ -10,3 +10,4 @@
 
 - Erlang 28.0.1
 - Elixir 1.18.4
+- Phoenix 1.8.0-rc.3
